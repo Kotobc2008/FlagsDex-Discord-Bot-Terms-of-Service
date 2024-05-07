@@ -42,7 +42,7 @@ The terms of service and rules might be updated at any time. Users will be notif
 The FlagsDex staff team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. **Use the bot at your own risk.**
 
 **9. Availability**
-Ballsdex is provided as-is. There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time.
+FlagsDex is provided as-is. There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time.
 User related data including backups may be deleted at any time.
 User related data including backups is non-transferable between discord accounts.
 The FlagsDex Team reserve the right to restrict usage of the bot or certain features to a user at any time, for any given reason.
@@ -63,5 +63,5 @@ If you want a re-evaluation of your case, you may do so by submitting a ticket i
 ## Contact
 You may contact us using the following means:
 
-(The Official FlagsDex Discord Server)[https://discord.gg/3bBwY9AYWU] through tickets ('🔨〕support' ticket channel)
+[The Official FlagsDex Discord Server](https://discord.gg/3bBwY9AYWU) through tickets ('🔨〕support' ticket channel)
 -------------------------------------------------------------------------------------------
