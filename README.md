@@ -1,4 +1,4 @@
-*# FlagsDex Discord Bot | Terms of Service and Bot Rules
+# FlagsDex Discord Bot | Terms of Service and Bot Rules
 -------------------------------------------------------------------------------------------
 Welcome to FlagsDex, the interactive flag-catching and trading Discord bot! Before you start using FlagsDex, please carefully read and agree to the following Terms of Service and Bot Rules. By using FlagsDex, you indicate your acceptance of these terms and your commitment to adhere to the rules.
 
